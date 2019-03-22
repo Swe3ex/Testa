@@ -17,7 +17,7 @@ $(function() {
         animIndex++
     }
     window.setInterval(doInverseSpinZeroPitch, 100);
-    var tKillNames = ["[EffeX]"];
+    var tKillNames = ["[DipsyHvh]"];
     var ctKillNames = ["Supremacy", "Omniaim", "Gamesense", "Aimware", "Interwebz", "Zeus", "Singularity", "Iniuria", "Phook", "Hentaiware"];
     var weapons = ["ssg08", "ak47", "deagle", "g3sg1", "m4a4"];
     var $killFeedContainer = $('.kill-feed');
